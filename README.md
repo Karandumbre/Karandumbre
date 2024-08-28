@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm passionate about crafting dynamic, user-friend
 - 📫 **Reach Out**: Feel free to get in touch via [email](mailto:Karandumbre1@gmail.com).
 
 ## Connect with Me
-- 💬 LinkedIn: [Karan Dumbre](https://www.linkedin.com/in/karandumbre/)
 - 🐦 Twitter: [@Karandumbre](https://x.com/karandumbre)
 
 
