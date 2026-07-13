@@ -3,7 +3,7 @@
 
 I build production web applications end-to-end — frontend, backend, and the business logic in between — for B2B SaaS, D2C e-commerce, and, most recently, my own startup.
 
-Founder of [Wishkr](https://wishkr.com), an occasion-led gifting platform I built from scratch: FastAPI backend, Next.js web/admin/vendor apps, and a WhatsApp assistant wired directly into the backend. Currently building the full-stack and AI layer for **Primacy**, a health & wellness platform integrating wearable data (Terra API) with a Gemini-powered AI coach. Previously shipped the Merchant Control Center at [Sprinque](https://sprinque.com) (Amsterdam B2B BNPL fintech), where the MVP I built in two months helped close their $1.7M seed round.
+Founder of [Wishkr](https://wishkr.com), an occasion-led gifting platform I built from scratch: FastAPI backend, Next.js web/admin/vendor apps, and a [WhatsApp AI assistant](https://wa.me/+917796060700) wired directly into the backend. Also building the full-stack and AI layer for [Primacy](https://primacy.io), a cognitive intelligence platform that turns wearable and cognitive-test data into a daily readiness score via its AI coach, Kai. Previously shipped the Merchant Control Center at Sprinque (Amsterdam B2B BNPL fintech, since closed), where the MVP I built in two months helped close their $1.7M seed round.
 
 ---
 
@@ -18,19 +18,15 @@ Founder of [Wishkr](https://wishkr.com), an occasion-led gifting platform I buil
 ---
 
 ### Selected work
-**Wishkr** — Occasion-led gifting platform (India). Founder & full-stack engineer — FastAPI backend, Next.js web/admin/vendor apps, WhatsApp Business API assistant, Razorpay marketplace payments.
+**[Wishkr](https://wishkr.com)** — Occasion-led gifting platform (India). Founder & full-stack engineer — FastAPI backend, Next.js web/admin/vendor apps, [WhatsApp AI assistant](https://wa.me/+917796060700), Razorpay marketplace payments.
 
-**Primacy** — Health & wellness dashboard. Full-stack engineer (freelance) — FastAPI backend, Next.js web app, React Native/Expo mobile app, Terra API wearable integration (Garmin, Apple Watch, WHOOP), Gemini-powered AI coach.
+**[Primacy](https://primacy.io)** — Cognitive intelligence platform: wearable data + cognitive testing distilled into a daily readiness score by an AI coach. Full-stack engineer (freelance) — FastAPI backend, Next.js web app, React Native/Expo mobile app, Terra API wearable integration (Garmin, Apple Watch, WHOOP), Gemini-powered AI coach.
 
-**[Persona Photo Editor](https://github.com/Karandumbre/persona-photo-editor)** — Mobile photo editor (React Native + Python/Flask). [Published on Google Play](https://play.google.com/store/apps/details?id=com.ask.persona).
+**[AK Capital Advisors](https://akcapitaladvisors.in/)** — Marketing site for a Pune-based corporate finance & investment banking advisory. Built with Next.js.
 
-**[The Mega Gameplay](https://github.com/Karandumbre/the-mega-gameplay)** — Competitive gaming platform supporting online tournaments, leagues, and ladders.
+**[Amiti Talent](https://www.amititalent.com/)** — Marketing site for a recruitment & talent acquisition firm. Built with Next.js.
 
-**[Hacker News Feed](https://github.com/Karandumbre/hacker-news-api-integration)** — Infinite-scroll HN reader; demonstrates progressive loading, API caching, and viewport-driven fetch patterns.
-
-**[Redux Cake & Ice Cream](https://github.com/Karandumbre/redux-example-app)** — Compact reference for Redux state management patterns.
-
-**[Full-stack Todo](https://github.com/Karandumbre/todo-app)** — React + Node + MongoDB. CRUD with completion state.
+**Persona Photo Editor** — Mobile photo editor (React Native + Python/Flask). [Published on Google Play](https://play.google.com/store/apps/details?id=com.ask.persona).
 
 **[Fast Fingers](https://optimistic-elion-fb78a7.netlify.app/)** — React-based typing-speed trainer (live demo).
 
@@ -58,9 +54,4 @@ IST, with strong EU and partial US overlap.
 ---
 
 ### Reach me
-[karandumbre16@gmail.com](mailto:karandumbre16@gmail.com)  •  [LinkedIn](https://www.linkedin.com/in/karandumbre/)  •  [Twitter / X](https://x.com/karandumbre)
-
----
-
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karandumbre&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karandumbre&layout=compact&theme=default&hide_border=true)
+[karandumbre1@gmail.com](mailto:karandumbre1@gmail.com)  •  [LinkedIn](https://www.linkedin.com/in/karandumbre/)  •  [Twitter / X](https://x.com/karandumbre)
