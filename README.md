@@ -1,4 +1,4 @@
-# Karan Dumbre
+# Karan D.
 **Senior Full-Stack Developer  •  React, Next.js & Python/FastAPI  •  Founder, Wishkr  •  Pune, India**
 
 I build production web applications end-to-end — frontend, backend, and the business logic in between — for B2B SaaS, D2C e-commerce, and, most recently, my own startup.
